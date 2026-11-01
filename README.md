@@ -1,7 +1,7 @@
 # image_gallery
 
 A new Flutter project.
-link:-https://web-xi-cyan-51.vercel.app
+link:-https://appsgeyser.io/20355248/Image slider gallery
 ## Getting Started
 
 This project is a starting point for a Flutter application.
